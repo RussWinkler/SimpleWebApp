@@ -1,0 +1,59 @@
+{
+  "list": [
+    {
+      "name": "List1",
+      "Item": [
+        {
+          "value": "Item1",
+          "Item": [
+            {
+              "value": "Item1.1",
+              "Item": [
+                {
+                  "value": "Item1.1.1"
+                }
+              ]
+            },
+            {
+              "value": "Item1.2"
+            }
+          ]
+        },
+        {
+          "value": "Item2"
+        }
+      ]
+    },
+    {
+      "name": "List2",
+      "Item": [
+        {
+          "value": "Item1",
+          "Item": [
+            {
+              "value": "Item1.1"
+            },
+            {
+              "value": "Item1.2"
+            },
+            {
+              "value": "Item1.3"
+            },
+            {
+              "value": "Item1.4"
+            }
+          ]
+        },
+        {
+          "value": "Item2"
+        },
+        {
+          "value": "Item3"
+        },
+        {
+          "value": "Item4"
+        }
+      ]
+    }
+  ]
+}
