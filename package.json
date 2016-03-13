@@ -1,0 +1,23 @@
+{
+  "name": "SimpleWebApp",
+  "version": "0.0.0",
+  "description": "A Simple Web App",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server -a 0.0.0.0 -p 8080",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RussWinkler/SimpleWebApp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RussWinkler/SimpleWebApp/issues"
+  },
+  "dependencies": {
+    "bower": "^1.7.7",
+    "http-server": "^0.9.0"
+  }
+}

@@ -16,9 +16,7 @@
     "tests"
   ],
   "dependencies": {
-    "semantic": "semantic-ui#^2.1.8",
     "angular": "^1.5.0",
-    "jquery": "^2.2.1",
-    "angular-route": "^1.5.0"
+    "jquery": "^2.2.1"
   }
 }
